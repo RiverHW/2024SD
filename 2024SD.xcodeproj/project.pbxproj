@@ -16,6 +16,8 @@
 		049E5D112CBA741100AF8507 /* _024SDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E5D102CBA741100AF8507 /* _024SDTests.swift */; };
 		049E5D1B2CBA741100AF8507 /* _024SDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E5D1A2CBA741100AF8507 /* _024SDUITests.swift */; };
 		049E5D1D2CBA741100AF8507 /* _024SDUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E5D1C2CBA741100AF8507 /* _024SDUITestsLaunchTests.swift */; };
+		049E5D2E2CBA760200AF8507 /* GuessWordGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E5D2D2CBA760200AF8507 /* GuessWordGameView.swift */; };
+		049E5D302CBA7EAD00AF8507 /* LightsOutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E5D2F2CBA7EAD00AF8507 /* LightsOutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		049E5D162CBA741100AF8507 /* 2024SDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2024SDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		049E5D1A2CBA741100AF8507 /* _024SDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _024SDUITests.swift; sourceTree = "<group>"; };
 		049E5D1C2CBA741100AF8507 /* _024SDUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _024SDUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		049E5D2D2CBA760200AF8507 /* GuessWordGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessWordGameView.swift; sourceTree = "<group>"; };
+		049E5D2F2CBA7EAD00AF8507 /* LightsOutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightsOutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				049E5CFB2CBA740D00AF8507 /* SceneDelegate.swift */,
 				049E5CFD2CBA740D00AF8507 /* ViewController.swift */,
 				049E5CFF2CBA740D00AF8507 /* Main.storyboard */,
+				049E5D2D2CBA760200AF8507 /* GuessWordGameView.swift */,
+				049E5D2F2CBA7EAD00AF8507 /* LightsOutView.swift */,
 				049E5D022CBA741100AF8507 /* Assets.xcassets */,
 				049E5D042CBA741100AF8507 /* LaunchScreen.storyboard */,
 				049E5D072CBA741100AF8507 /* Info.plist */,
@@ -259,6 +265,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				049E5CFE2CBA740D00AF8507 /* ViewController.swift in Sources */,
+				049E5D302CBA7EAD00AF8507 /* LightsOutView.swift in Sources */,
+				049E5D2E2CBA760200AF8507 /* GuessWordGameView.swift in Sources */,
 				049E5CFA2CBA740D00AF8507 /* AppDelegate.swift in Sources */,
 				049E5CFC2CBA740D00AF8507 /* SceneDelegate.swift in Sources */,
 			);
